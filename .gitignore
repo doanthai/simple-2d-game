@@ -60,6 +60,8 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+*.exe
+/WebGL Builds
 
 # Crashlytics generated file
 crashlytics-build.properties
